@@ -3,7 +3,7 @@
 # FILENAME: naive_bayes.py
 # SPECIFICATION: Output the classification of each of the 10 instances from the file weather_test if the classification confidence is >= 0.75
 # FOR: CS 4210- Assignment #2 
-# TIME SPENT: 7
+# TIME SPENT: 1.5 hours
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard
